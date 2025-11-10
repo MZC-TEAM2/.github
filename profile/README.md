@@ -40,29 +40,8 @@
 Swagger UI를 통해 API 명세를 확인할 수 있습니다.
 
 ```
-http://localhost:8080/swagger-ui.html
+http://backend_DNS/swagger-ui.html
 ```
-
-## Quick Start
-
-### Backend
-```bash
-cd backend
-./gradlew bootRun
-```
-
-### Frontend
-```bash
-cd frontend
-npm install
-npm start
-```
-
-### Docker
-```bash
-docker-compose up -d
-```
-
 ## Development
 
 ### Branch Strategy
