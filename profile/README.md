@@ -91,6 +91,8 @@
 | **Range Streaming** | HTTP Range 기반 영상 스트리밍 |
 | **SSE (Server-Sent Events)** | 실시간 알림 푸시 |
 | **부정 시청 감지** | 스킵, 배속, 탭 숨김 감지 |
+| **Nginx URL 라우팅** | 정적 자원(이미지) 서빙 분리, API/Video 서버 리버스 프록시 |
+
 
 <br/>
 
