@@ -1,6 +1,6 @@
 <div align="center">
 
-# MZC Cloud Native 1기 - TEAM 2
+# MZC Cloud Native 2기 - TEAM 2
 
 ### On-Premise LMS Platform
 
@@ -129,6 +129,6 @@
 
 <div align="center">
 
-**MZC Cloud Native 1기 - TEAM 2**
+**MZC Cloud Native 2기 - TEAM 2**
 
 </div>
